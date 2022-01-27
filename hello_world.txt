@@ -1,0 +1,2 @@
+Hello I am studying Git
+Excited to learn it!
